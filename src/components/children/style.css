@@ -1,0 +1,11 @@
+.cardUnity {
+  height: 150px;
+  width: 200px;
+  padding: 0px 10px;
+  margin: 50px 20px 10px 20px;
+  border: solid rgb(70, 67, 67) 5px;
+  border-radius: 20px;
+  box-shadow: rgb(118, 105, 129) 7px 7px 7px;
+  color: rgb(70, 67, 67);
+  text-shadow: rgb(118, 105, 129) 3px 3px 3px;
+}
